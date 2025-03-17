@@ -46,7 +46,7 @@ This will:
 
 ---
 ### Link to WandB Report
-https://wandb.ai/cs22m088-iit-madras/DA6401_Assignment_1/reports/DA6401-Assignment-1--VmlldzoxMTcwNTQ5NQ?accessToken=cxp3welccil72eizsj1uobhoywj7udesu77zz8m7cxlrshynmkogm9zm2lycp3zq  
+https://wandb.ai/cs22m088-iit-madras/DA6401_Assignment_1/reports/DA6401-Assignment-1--VmlldzoxMTcwNTQ5NQ?accessToken=cxp3welccil72eizsj1uobhoywj7udesu77zz8m7cxlrshynmkogm9zm2lycp3zq
 
 ### Link to Github Repo-
 https://github.com/Swapnil7-lab/DA6401_Assignment_1
